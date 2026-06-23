@@ -1,6 +1,0 @@
-{
-  "name": "Азбука Рекламы",
-  "description": "Сайт компании по производству наружной рекламы",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
